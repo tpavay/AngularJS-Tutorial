@@ -1,6 +1,7 @@
 # AngularJS-NameCalculator
 
 In this project we created a simple Name Calculator in order to practice the basics of the common MVVM design pattern.
+   - It has a simple input box. As you type in the input box the total value of the string (in ASCI) is output.
 
 The Name calculator only has 4 files including this readme.
 1. angular.min.js
